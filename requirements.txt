@@ -1,0 +1,9 @@
+# GPU run (Google Colab / Kaggle). torch, transformers and accelerate are pre-installed there.
+transformers>=4.46
+accelerate>=1.0
+peft>=0.13
+bitsandbytes>=0.44
+pandas
+scikit-learn
+matplotlib
+gradio>=4.44
